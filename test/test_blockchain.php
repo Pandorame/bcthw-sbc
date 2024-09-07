@@ -1,7 +1,7 @@
 <?php
 
-require_once 'Block.php';
-require_once 'Blockchain.php';
+require_once 'classes/Block.php';
+require_once 'classes/Blockchain.php';
 
 // Initialize a new blockchain
 $myBlockchain = new Blockchain();
